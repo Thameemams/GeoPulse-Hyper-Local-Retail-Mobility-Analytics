@@ -6,12 +6,10 @@ GeoPulse is an enterprise-grade geospatial data lakehouse and visualization engi
 # TASK I
 ## 🎯 Aim of the Project
 
-- **Scale Spatial Ingestion & Storage**: Build a robust Geospatial Data Lakehouse in Snowflake capable of ingesting massive arrays of coordinate data using native GEOGRAPHY data types.
+- **Transition to Dynamic Mobility Intelligence**: Replace traditional, static census datasets with real-time, high-resolution mobile GPS mobility data to capture actual human movement and footfall dynamics in urban retail environments.
 
-- **Execute Distributed Spatial Joins**: Leverage Apache Sedona and PySpark to process heavy spatial intersections between millions of mobile GPS points and multi-polygon store catchment boundaries without memory bottlenecks.
+- **Optimize Site Selection & Expansion Strategy**: Provide a rigorous geospatial framework to evaluate prospective retail locations based on empirical foot traffic density rather than surface-level demographics.
 
-- **Automate Modular ELT Workflows**: Configure dbt to cleanse spatial joins, track unique DeviceID trajectories over time, and aggregate hourly footfall metrics and multi-store cross-visitation patterns.
+- **Mitigate Intra-Brand Cannibalism**: Accurately quantify spatial overlap and commuter interception rates to ensure new store placements capture net-new customers instead of cannibalizing traffic from existing outlets.
 
-- **Prevent Store Cannibalization**: Model device movement history to accurately calculate traffic diversion rates between existing locations and proposed sites (e.g., quantifying morning commuter overlap).
-
-- **Deliver Immersive 3D Spatial BI**: Embed Kepler.gl into a React application to render dynamic 3D H3 hexagons, movement arcs, and time-scrubbed footfall heatmaps that drive executive real estate decisions.
+- **Enable Interactive Geospatial Visualizations**: Leverage spatial databases and Kepler.gl to generate dynamic, time-scrubbable footfall heatmaps that illustrate how pedestrian volume shifts across different hours of the day.
