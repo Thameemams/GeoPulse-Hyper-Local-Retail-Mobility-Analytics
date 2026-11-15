@@ -15,3 +15,12 @@ This project delivers an enterprise-grade, geospatial analytics pipeline and int
 - **Mitigate Intra-Brand Cannibalism**: Accurately quantify spatial overlap and commuter interception rates to ensure new store placements capture net-new customers instead of cannibalizing traffic from existing outlets.
 
 - **Enable Interactive Geospatial Visualizations**: Leverage spatial databases and Kepler.gl to generate dynamic, time-scrubbable footfall heatmaps that illustrate how pedestrian volume shifts across different hours of the day.
+
+## 📌 Problem Definition
+Traditional retail site selection relies heavily on static demographic markers, historical census records, and aggregate foot-traffic estimates. However, these static sources fail to capture the dynamic temporal shifts of modern urban movement—such as shifting morning commuter corridors, lunchtime foot-traffic peaks, and evening travel patterns.
+
+Without granular, time-aware mobility data, expanding retail chains face two critical strategic risks:
+
+- **Inaccurate Revenue Forecasting: Relying on static resident demographics fails to account for transient non-resident foot traffic (e.g., commuters, office workers, tourists), leading to poor site valuation and suboptimal store placement.
+
+- **Intra-Brand Revenue Cannibalization: Without visibility into movement trajectories and footfall origins, retailers risk opening new locations that intercept existing customer flows. This results in severe self-cannibalization—where a new store merely absorbs revenue from an established nearby location rather than capturing net-new market share.
