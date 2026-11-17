@@ -24,3 +24,11 @@ Without granular, time-aware mobility data, expanding retail chains face two cri
 - **Inaccurate Revenue Forecasting**: Relying on static resident demographics fails to account for transient non-resident foot traffic (e.g., commuters, office workers, tourists), leading to poor site valuation and suboptimal store placement.
 
 - **Intra-Brand Revenue Cannibalization**: Without visibility into movement trajectories and footfall origins, retailers risk opening new locations that intercept existing customer flows. This results in severe self-cannibalization—where a new store merely absorbs revenue from an established nearby location rather than capturing net-new market share.
+
+# TASK II
+## Dataset Loading and Overview
+
+Domain:
+No. of Rows:
+No. of Column attributes:
+  
