@@ -29,6 +29,8 @@ Without granular, time-aware mobility data, expanding retail chains face two cri
 ## Dataset Loading and Overview
 
 Domain:
+
 No. of Rows:
+
 No. of Column attributes:
   
