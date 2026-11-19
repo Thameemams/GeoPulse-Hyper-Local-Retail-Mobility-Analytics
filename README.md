@@ -1,4 +1,4 @@
-# GeoPulse- Hyper Local Retail Mobility Analytics
+# ***GeoPulse: Hyper-Local Retail Mobility Analytics***
 
 ## 📋 Executive Summary
 GeoPulse addresses a critical challenge in retail real estate strategy, the reliance on static demographic and census data for high-stakes store opening decisions. Traditional approaches fail to capture dynamic intra-day foot traffic patterns, frequently leading to sub-optimal site placement and revenue cannibalization between nearby franchise locations.
