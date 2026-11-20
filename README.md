@@ -29,6 +29,6 @@ Without granular, time-aware mobility data, expanding retail chains face two cri
 * Domain: Retail Strategy & Geospatial Analytics
 * Dataset Source Code: df_master = pd.read_csv("geo_pulse_master_dataset.csv")
 * Data Type: Comma Separated Values 
-* Rows:1000
-* Columns:15
+* Rows: 1000
+* Columns: 15
   
