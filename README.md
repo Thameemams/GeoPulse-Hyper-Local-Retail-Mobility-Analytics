@@ -25,7 +25,7 @@ Without granular, time-aware mobility data, expanding retail chains face two cri
 
 - **Intra-Brand Revenue Cannibalization**: Without visibility into movement trajectories and footfall origins, retailers risk opening new locations that intercept existing customer flows. This results in severe self-cannibalization—where a new store merely absorbs revenue from an established nearby location rather than capturing net-new market share.
 
-## About the dataset
+## About the Dataset
 * Domain: Retail Strategy & Geospatial Analytics
 * Dataset Source Code: df_master = pd.read_csv("geo_pulse_master_dataset.csv")
 * Data Type: Comma Separated Values 
