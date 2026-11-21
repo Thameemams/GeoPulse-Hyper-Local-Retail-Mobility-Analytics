@@ -38,4 +38,29 @@ Without granular, time-aware mobility data, expanding retail chains face two cri
 **2. Store Proximity & Catchment Attributes:** nearest_store_id,nearest_store_name,nearest_store_status,distance_to_store_meters,is_within_catchment.
 
 **3. Commercial Zoning & Temporal Features:** zone_id,zone_name,zone_type,base_footfall_category.  
+
+## Steps Required:
+
+1.Data Loading and Initial Overview
+
+2.Data Pre-processing
+
+3.Exploratory Data Analysis (EDA)
+
+4.Visualizations
+
+5.Insight Generation and Report
+
+# TASK II
+## Dataset Loading and  Overview:
+* Total no. of rows:1000
+* Total no. of columns:15
+
+## Data Quality Assessment:
+* Count of non-null values: 1000
+* No duplicate columns are found.
+* The dataset is consistent throughout.
+* Range index: 0 to 999, 1000 entries
+* Datatype issues are found.
+* Memory usage: 110.5+ KB. 
   
