@@ -31,4 +31,11 @@ Without granular, time-aware mobility data, expanding retail chains face two cri
 * Data Type: Comma Separated Values 
 * Rows: 1000
 * Columns: 15
+
+## Key Features Evaluated include:
+**1. Core Mobility & Ping Attributes:** ping_id, device_id, timestamp, latitude, longitude, horizontal_accuracy.
+
+**2. Store Proximity & Catchment Attributes:** nearest_store_id, nearest_store_name, nearest_store_status, distance_to_store_meters, is_within_catchment.
+
+**3. Commercial Zoning & Temporal Features:** zone_id, zone_name, zone_type,base_footfall_category.  
   
